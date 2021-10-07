@@ -4,10 +4,15 @@
 - Python(Django)を使ったログインページ
 
 # DEMO
-
 - テストアカウント
+  ログインページ: http://127.0.0.1:8000/
   mail: user@test.com
   pass: user1234
+
+- 管理者アカウント
+  管理画面: http://127.0.0.1:8000/admin/
+  mail: admin@test.com
+  pass: root
 
 # 工夫した点・こだわった点
 
