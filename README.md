@@ -9,11 +9,6 @@
   mail: user@test.com<br>
   pass: user1234<br>
 
-- 管理者アカウント<br>
-  管理画面: http://127.0.0.1:8000/admin/<br>
-  mail: admin@test.com<br>
-  pass: root<br>
-
 # 工夫した点・こだわった点
 
 - 前回はFlaskを勉強したので、今回はDjangoを使ってみた。
